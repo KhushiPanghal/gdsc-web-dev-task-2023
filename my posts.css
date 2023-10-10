@@ -1,0 +1,26 @@
+body{
+    text-align: center;
+    background-color: #FF8D9A;
+    color:#92070A;
+}
+button{
+    background-color:#9AFF8D ;
+    color:#92070A;
+    border-radius: 4px;
+    width:100px;
+    
+}
+button:hover{
+    background-color:#92074F ;
+    color:white;
+   
+}
+button:active{
+    background-color: yellow;
+    color:black;
+}
+
+body{
+    padding: 3px;
+    margin:2px 0px 2px;
+}

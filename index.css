@@ -1,0 +1,44 @@
+h1 {
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+font-family: 'Young Serif', serif;
+background-color:#92070A;
+color:white;
+
+}
+
+h2{
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+font-family: 'Young Serif', serif;
+color:#92070A;
+}
+.footer{
+    background-color: rgb(38, 40, 40);
+    color:rgb(255 255 255 );
+    text-align: center;
+    height:50px
+}  
+h3{
+  color:  #92074F;
+} 
+button{
+    background-color:#924907 ;
+    color:white;
+    border-radius: 4px;
+}
+button:hover{
+    background-color:#92074F ;
+    color:white
+   
+}
+button:active{
+    background-color: yellow;
+    color:black;
+}
+body{
+    padding: 3px;
+    margin:2px 0px 2px;
+}
+
+

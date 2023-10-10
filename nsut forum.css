@@ -1,0 +1,33 @@
+h3{
+    color:  #92074F;
+  } 
+  
+    h1,h2{
+        text-align: center;
+        
+        background-color:#92070A;
+color:white;
+  }
+  button{
+    background-color:#924907 ;
+    color:white;
+    border-radius: 4px;
+    width:60px;
+}
+button:hover{
+    background-color:#92074F ;
+    color:white;
+   
+}
+button:active{
+    background-color: yellow;
+    color:black;
+}
+.new post{
+    width:80px;
+    
+}
+body{
+    padding: 3px;
+    margin:2px 0px 2px;
+}
